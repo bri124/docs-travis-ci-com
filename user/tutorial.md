@@ -1,9 +1,9 @@
----
+145---
 title: Travis CI Tutorial
 layout: en
 redirect_from:
   - /user/getting-started/
----
+145---
 
 This is a very short guide to using Travis CI with your GitHub hosted code repository.
 If you're new to continuous integration or would like some more information on
